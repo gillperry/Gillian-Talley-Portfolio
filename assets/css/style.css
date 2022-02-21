@@ -74,7 +74,7 @@ header nav ul li a {
 }
 .section-title {
     font-size: 55px;
-    color: #024e76;
+    color: black;
     margin-bottom: 35px;
     padding: 0 100px 20px 100px;
     display: inline-block;
@@ -86,7 +86,6 @@ header nav ul li a {
 .trainer {
     width: 900px;
     margin: 0 auto 30px auto;
-    background: #024e76;
-    color: #fce138;
+    background: black;
     overflow: auto;
 }
